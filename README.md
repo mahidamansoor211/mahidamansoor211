@@ -36,8 +36,7 @@ Currently pursuing BBIT at University of the Punjab and continuously improving m
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
+
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=green)
@@ -45,6 +44,8 @@ Currently pursuing BBIT at University of the Punjab and continuously improving m
 ![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=fastapi&logoColor=green)
 
 **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=cyan)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=cyan)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=purple)
