@@ -5,17 +5,6 @@ Backend-focused developer passionate about building scalable web applications an
 
 Currently pursuing BBIT at University of the Punjab and continuously improving my backend, cloud, and full-stack development skills.
 
----
-
-## About Me
-• Backend-focused MERN Stack Developer
-• Passionate about APIs, databases, and scalable backend systems
-• Hands-on experience with AWS Lambda and cloud-based backend features
-• Strong understanding of authentication and REST APIs
-• Always learning modern backend and cloud technologies
-
----
-
 ## Connect With Me
 [![Email](https://img.shields.io/badge/Email-mahidamansoor211%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahidamansoor211@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahida%20Mansoor-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahida-mansoor-aa710431a)
@@ -23,7 +12,7 @@ Currently pursuing BBIT at University of the Punjab and continuously improving m
 ---
 
 ## Experience
-**Software Engineering Intern — Global Research Trends** (Jun 2026 – Aug 2026)
+**Web Development Intern — Global Research Trends** (Jun 2026 – Aug 2026)
 • Developed and refactored features for GetMeTraffic and B2B Insights
 • Built AWS Lambda functions and integrated REST APIs
 • Improved UI and integrated Stripe for payment processing
