@@ -1,5 +1,5 @@
 # Hi, I'm Mahida Mansoor
-### Backend Developer | MERN Stack Developer
+### MERN Stack Developer
 
 Backend-focused developer passionate about building scalable web applications and REST APIs using Node.js, Express, MongoDB, and SQL databases, with growing cloud experience on AWS. I also build modern frontend interfaces using React.
 
